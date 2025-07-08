@@ -26,26 +26,16 @@ Evitar renomear arquivos manualmente (um por um no F2 😮‍💨) e agilizar ro
 ## 🖼️ Exemplo prático
 
 **Antes:**
-IMG_1823.png
-comprovante.pdf
-Relatório final.xlsx
-
-makefile
-Copiar
-Editar
+<img width="436" alt="antes" src="https://github.com/user-attachments/assets/26deee07-cdb5-4057-982d-b66edd405c47" />
 
 **Depois:**
-arquivo_001.png
-arquivo_002.pdf
-arquivo_003.xlsx
+<img width="196" alt="depois" src="https://github.com/user-attachments/assets/05daaabd-4839-487f-8874-8dcc6ea9967b" />
 
 ## ▶️ Como usar
 
 1. Abra o arquivo `renomeador.py`
 2. Edite a variável `pasta_alvo` com o caminho da sua pasta
-3. Rode no terminal com:
-
-python renomeador.py
+3. Rode no terminal com: python renomeador.py
 
 ## 🛠️ Tecnologias
 
