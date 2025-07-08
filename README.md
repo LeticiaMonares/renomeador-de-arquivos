@@ -1,7 +1,6 @@
 # 🧹 Renomeador de Arquivos em Massa (Python)
 
-> Script simples em Python para automatizar a renomeação de arquivos de uma pasta, aplicando um padrão sequencial e mantendo a extensão original.
-
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Automação](https://img.shields.io/badge/Automação-Terminal-purple)
 ![Uso Pessoal](https://img.shields.io/badge/Aplicação-Prática-success)
