@@ -1,9 +1,10 @@
-# 🧹 Renomeador de Arquivos em Massa (Python)
+<h1 align="center">🧹 Renomeador de Arquivos em Massa (Python)</h1>
 
 <p align="center">
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Automação](https://img.shields.io/badge/Automação-Terminal-purple)
-![Uso Pessoal](https://img.shields.io/badge/Aplicação-Prática-success)
+  <img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Automação-Terminal-purple" alt="Automação">
+  <img src="https://img.shields.io/badge/Aplicação-Prática-success" alt="Uso Pessoal">
+</p>
 
 ---
 
