@@ -25,11 +25,19 @@ Evitar renomear arquivos manualmente (um por um no F2 😮‍💨) e agilizar ro
 
 ## 🖼️ Exemplo prático
 
-**Antes:**
-<img width="436" alt="antes" src="https://github.com/user-attachments/assets/26deee07-cdb5-4057-982d-b66edd405c47" />
+<p align="center"><strong>Antes:</strong></p>
 
-**Depois:**
-<img width="196" alt="depois" src="https://github.com/user-attachments/assets/05daaabd-4839-487f-8874-8dcc6ea9967b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26deee07-cdb5-4057-982d-b66edd405c47" width="600" alt="antes">
+</p>
+
+<p align="center"><strong>Depois:</strong></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05daaabd-4839-487f-8874-8dcc6ea9967b" width="400" alt="depois">
+</p>
+
+---
 
 ## ▶️ Como usar
 
